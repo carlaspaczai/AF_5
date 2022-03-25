@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\carla\source\repos\Tema_AF_Saptamana_6\Tema_AF_Saptamana_6\Source.cpp(167,49): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\carla\source\repos\Tema_AF_Saptamana_6\Tema_AF_Saptamana_6\Source.cpp(177,20): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Tema_AF_Saptamana_6.vcxproj -> C:\Users\carla\source\repos\Tema_AF_Saptamana_6\Debug\Tema_AF_Saptamana_6.exe
